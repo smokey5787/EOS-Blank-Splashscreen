@@ -13,3 +13,5 @@ X-KDE-PluginInfo-Author
 -If the file is not a png you can either convert the image or change the following line in Splash.qml source: "images/background.png" to the name and extension of your picture.
 4.You can also change the logo the same way
 5. Other colours etc you may want to change can be found in Splash.qml and use a hex code
+
+![alt text](https://github.com/smokey5787/EOS-Blank-Splashscreen/blob/main/EOS-Blank/contents/previews/splash.png "preview")
