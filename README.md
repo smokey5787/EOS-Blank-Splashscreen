@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Creating a Custom Splash Screen for KDE Plasma</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-		}
-		h1 {
-			color: #333;
-		}
-		h2 {
-			color: #555;
-		}
-		p {
-			color: #333;
-		}
-		ol {
-			padding-left: 20px;
-		}
-		li {
-			margin-bottom: 10px;
-		}
-		img {
-			max-width: 100%;
-			height: auto;
-		}
-	</style>
 </head>
 <body>
 	<h1>Creating a Custom Splash Screen for KDE Plasma</h1>
