@@ -1,6 +1,6 @@
 </head>
 <body>
-	<h1>Creating a Custom Splash Screen for KDE Plasma</h1>
+	<h1>NOTE THIS IS FOR KDE PLASMA 5 Creating a Custom Splash Screen for KDE Plasma 5</h1>
 	<p>This is just a quick guide I have put together for anyone wanting to customise their splashscreen in KDE Plasma, It is not complete and mainly to help people get a quick start.</p>
 	<h2>Instructions:</h2>
 	<ol>
